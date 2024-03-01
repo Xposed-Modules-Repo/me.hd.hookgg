@@ -18,20 +18,20 @@
 ---
 ## 功能:
 
-- [x] **96.0**
-  - [ ] **clearResults**
-  - [ ] **setRanges**
-  - [x] **searchNumber**
-  - [ ] **getResultsCount**
-  - [ ] **getResults**
-  - [ ] **getValues**
-  - [ ] **setValues**
-- [ ] **101.0**
-  - [ ] **clearResults**
-  - [ ] **setRanges**
-  - [ ] **searchNumber**
-  - [ ] **getResultsCount**
-  - [ ] **getResults**
-  - [ ] **getValues**
-  - [ ] **setValues**
+|          Name          |      Ver96.0      |      Ver101.0      |
+| ---------------------- | ----------------- | ------------------ |
+| clearResults           | ❌Developed       | ❌Developed       |
+| setRanges              | ❌Developed       | ❌Developed       |
+| searchNumber           | ✅Completed       | ❌Developed       |
+| getResultsCount        | ❌Developed       | ❌Developed       |
+| getResults             | ❌Developed       | ❌Developed       |
+| getValues              | ❌Developed       | ❌Developed       |
+| setValues              | ❌Developed       | ❌Developed       |
+
+---
+## 致谢:
+
+|     Name     |                               Source                               |
+| ------------ | ------------------------------------------------------------------ |
+| YukiHookAPI  | [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)          |
 
