@@ -18,15 +18,15 @@
 ---
 ## 功能:
 
-|          Name          |      Ver96.0      |      Ver101.0      |
-| ---------------------- | ----------------- | ------------------ |
-| clearResults           | ❌Developed       | ❌Developed       |
-| setRanges              | ❌Developed       | ❌Developed       |
-| searchNumber           | ✅Completed       | ❌Developed       |
-| getResultsCount        | ❌Developed       | ❌Developed       |
-| getResults             | ❌Developed       | ❌Developed       |
-| getValues              | ❌Developed       | ❌Developed       |
-| setValues              | ❌Developed       | ❌Developed       |
+|          Name          |    Ver96.0    |    Ver101.0    |
+| ---------------------- | ------------- | -------------- |
+| clearResults           | ❌Developed | ❌Developed |
+| setRanges              | ❌Developed | ❌Developed |
+| searchNumber           | ✅Completed | ❌Developed |
+| getResultsCount        | ❌Developed | ❌Developed |
+| getResults             | ❌Developed | ❌Developed |
+| getValues              | ❌Developed | ❌Developed |
+| setValues              | ❌Developed | ❌Developed |
 
 ---
 ## 致谢:
