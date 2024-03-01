@@ -29,6 +29,11 @@
 | setValues              | ❌Developed | ❌Developed |
 
 ---
+## 贡献:
+
+在使用过程中有任何问题或建议, 请通过issues提交.
+
+---
 ## 致谢:
 
 |     Name     |                               Source                               |
