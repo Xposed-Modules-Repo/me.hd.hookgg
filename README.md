@@ -18,6 +18,21 @@
 ---
 ## 功能:
 
+<table>
+   <tr>
+      <td rowspan="2" align="center"><b>FuncName</b></td>
+      <td colspan="3" align="center"><b>GG</b></td>
+      <td colspan="1" align="center"><b>RLGG</b></td>
+      <td colspan="1" align="center"><b>Other</b></td>
+   </tr>
+   <tr>
+      <td>V96.0</td> <td>V96.1</td> <td>V101.0</td> <td>V2.0.9.2</td> <td></td>
+   </tr>
+   <tr>
+      <td>toast</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+   </tr>
+</table>
+
 | FuncName               | V96.0 | V96.1 | V101.0 | RLGG | Other |
 | ---------------------- | --- | --- | --- | --- | --- |
 | toast                  | ✅ | ✅ | ✅ | ❌ | ⚠️ |
