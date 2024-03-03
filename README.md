@@ -18,19 +18,20 @@
 ---
 ## 功能:
 
-|          Name          | Ver96.0      | Ver96.1     | Ver101.0     | RLGG        |
-| ---------------------- | ------------ | ----------- | ------------ | ----------- |
-| toast                  | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
-| alert                  | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
-| clearResults           | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
-| setRanges              | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
-| searchNumber           | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
-| getResultsCount        | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
-| getResults             | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
-| editAll                | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
-| getValues              | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
-| setValues              | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
-| addListItems           | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
+| FuncName               | V96.0 | V96.1 | V101.0 | RLGG |
+| ---------------------- | --- | --- | --- | --- |
+| toast                  | ✅ | ✅ | ✅ | ❌ |
+| alert                  | ✅ | ✅ | ✅ | ❌ |
+| clearResults           | ✅ | ✅ | ✅ | ❌ |
+| setRanges              | ✅ | ✅ | ✅ | ❌ |
+| searchNumber           | ✅ | ✅ | ✅ | ❌ |
+| getResultsCount        | ✅ | ✅ | ✅ | ❌ |
+| getResults             | ✅ | ✅ | ✅ | ❌ |
+| editAll                | ✅ | ✅ | ✅ | ❌ |
+| getValues              | ✅ | ✅ | ✅ | ❌ |
+| setValues              | ✅ | ✅ | ✅ | ❌ |
+| addListItems           | ✅ | ✅ | ✅ | ❌ |
+| otherFunction          | ❌ | ❌ | ❌ | ❌ |
 
 ---
 ## 贡献:
