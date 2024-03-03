@@ -20,13 +20,17 @@
 
 |          Name          |    Ver96.0    |    Ver101.0    |
 | ---------------------- | ------------- | -------------- |
+| toast                  | ❌Developed | ❌Developed |
+| alert                  | ❌Developed | ❌Developed |
 | clearResults           | ❌Developed | ❌Developed |
 | setRanges              | ❌Developed | ❌Developed |
 | searchNumber           | ✅Completed | ❌Developed |
 | getResultsCount        | ❌Developed | ❌Developed |
 | getResults             | ❌Developed | ❌Developed |
+| editAll                | ❌Developed | ❌Developed |
 | getValues              | ❌Developed | ❌Developed |
 | setValues              | ❌Developed | ❌Developed |
+| addListItems           | ❌Developed | ❌Developed |
 
 ---
 ## 贡献:
