@@ -30,16 +30,38 @@
    </tr>
    <tr>
      <td>toast</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+   </tr>
+   <tr>
      <td>alert</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+   </tr>
+   <tr>
      <td>clearResults</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+   </tr>
+   <tr>
      <td>setRanges</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+   </tr>
+   <tr>
      <td>searchNumber</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+   </tr>
+   <tr>
      <td>getResultsCount</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+   </tr>
+   <tr>
      <td>getResults</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+   </tr>
+   <tr>
      <td>editAll</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+   </tr>
+   <tr>
      <td>getValues</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+   </tr>
+   <tr>
      <td>setValues</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+   </tr>
+   <tr>
      <td>addListItems</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+   </tr>
+   <tr>
      <td>otherFunction</td> <td>❌</td> <td>❌</td> <td>❌</td> <td>❌</td> <td>⚠️</td>
    </tr>
 </table>
