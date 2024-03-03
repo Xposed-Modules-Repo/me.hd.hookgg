@@ -19,67 +19,116 @@
 ## 功能:
 
 <table>
-   <tr>
-      <td rowspan="2" align="center"><b>FuncName</b></td>
-      <td colspan="3" align="center"><b>GG</b></td>
-      <td colspan="1" align="center"><b>RLGG</b></td>
-      <td colspan="1" align="center"><b>Other</b></td>
-   </tr>
-   <tr>
-      <td>V96.0</td> <td>V96.1</td> <td>V101.0</td> <td>V2.0.9.2</td> <td>Unknown</td>
-   </tr>
-   <tr>
-     <td>toast</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
-   </tr>
-   <tr>
-     <td>alert</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
-   </tr>
-   <tr>
-     <td>clearResults</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
-   </tr>
-   <tr>
-     <td>setRanges</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
-   </tr>
-   <tr>
-     <td>searchNumber</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
-   </tr>
-   <tr>
-     <td>getResultsCount</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
-   </tr>
-   <tr>
-     <td>getResults</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
-   </tr>
-   <tr>
-     <td>editAll</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
-   </tr>
-   <tr>
-     <td>getValues</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
-   </tr>
-   <tr>
-     <td>setValues</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
-   </tr>
-   <tr>
-     <td>addListItems</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
-   </tr>
-   <tr>
-     <td>otherFunction</td> <td>❌</td> <td>❌</td> <td>❌</td> <td>❌</td> <td>⚠️</td>
-   </tr>
+    <tr>
+        <td rowspan="2" align="center"><b>FuncName</b></td>
+        <td colspan="3" align="center"><b>GG</b></td>
+        <td colspan="1" align="center"><b>RLGG</b></td>
+        <td colspan="1" align="center"><b>Other</b></td>
+    </tr>
+    <tr>
+        <td align="center"><b>Ver96.0</b></td>
+        <td align="center"><b>Ver96.1</b></td>
+        <td align="center"><b>Ver101.0</b></td>
+        <td align="center"><b>Ver2.0.9.2</b></td>
+        <td align="center"><b>Unknown</b></td>
+    </tr>
+    <tr>
+        <td align="center">toast</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❌</td>
+        <td align="center">⚠️</td>
+    </tr>
+    <tr>
+        <td align="center">alert</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❌</td>
+        <td align="center">⚠️</td>
+    </tr>
+    <tr>
+        <td align="center">clearResults</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❌</td>
+        <td align="center">⚠️</td>
+    </tr>
+    <tr>
+        <td align="center">setRanges</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❌</td>
+        <td align="center">⚠️</td>
+    </tr>
+    <tr>
+        <td align="center">searchNumber</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❌</td>
+        <td align="center">⚠️</td>
+    </tr>
+    <tr>
+        <td align="center">getResultsCount</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❌</td>
+        <td align="center">⚠️</td>
+    </tr>
+    <tr>
+        <td align="center">getResults</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❌</td>
+        <td align="center">⚠️</td>
+    </tr>
+    <tr>
+        <td align="center">editAll</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❌</td>
+        <td align="center">⚠️</td>
+    </tr>
+    <tr>
+        <td align="center">getValues</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❌</td>
+        <td align="center">⚠️</td>
+    </tr>
+    <tr>
+        <td align="center">setValues</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❌</td>
+        <td align="center">⚠️</td>
+    </tr>
+    <tr>
+        <td align="center">addListItems</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❌</td>
+        <td align="center">⚠️</td>
+    </tr>
+    <tr>
+        <td align="center">otherFunction</td>
+        <td align="center">❌</td>
+        <td align="center">❌</td>
+        <td align="center">❌</td>
+        <td align="center">❌</td>
+        <td align="center">⚠️</td>
+    </tr>
 </table>
-
-| FuncName               | V96.0 | V96.1 | V101.0 | RLGG | Other |
-| ---------------------- | --- | --- | --- | --- | --- |
-| toast                  | ✅ | ✅ | ✅ | ❌ | ⚠️ |
-| alert                  | ✅ | ✅ | ✅ | ❌ | ⚠️ |
-| clearResults           | ✅ | ✅ | ✅ | ❌ | ⚠️ |
-| setRanges              | ✅ | ✅ | ✅ | ❌ | ⚠️ |
-| searchNumber           | ✅ | ✅ | ✅ | ❌ | ⚠️ |
-| getResultsCount        | ✅ | ✅ | ✅ | ❌ | ⚠️ |
-| getResults             | ✅ | ✅ | ✅ | ❌ | ⚠️ |
-| editAll                | ✅ | ✅ | ✅ | ❌ | ⚠️ |
-| getValues              | ✅ | ✅ | ✅ | ❌ | ⚠️ |
-| setValues              | ✅ | ✅ | ✅ | ❌ | ⚠️ |
-| addListItems           | ✅ | ✅ | ✅ | ❌ | ⚠️ |
-| otherFunction          | ❌ | ❌ | ❌ | ❌ | ⚠️ |
 
 ---
 ## 贡献:
