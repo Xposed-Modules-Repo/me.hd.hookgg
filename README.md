@@ -26,10 +26,21 @@
       <td colspan="1" align="center"><b>Other</b></td>
    </tr>
    <tr>
-      <td>V96.0</td> <td>V96.1</td> <td>V101.0</td> <td>V2.0.9.2</td> <td></td>
+      <td>V96.0</td> <td>V96.1</td> <td>V101.0</td> <td>V2.0.9.2</td> <td>Unknown</td>
    </tr>
    <tr>
-      <td>toast</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+     <td>toast</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+     <td>alert</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+     <td>clearResults</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+     <td>setRanges</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+     <td>searchNumber</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+     <td>getResultsCount</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+     <td>getResults</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+     <td>editAll</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+     <td>getValues</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+     <td>setValues</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+     <td>addListItems</td> <td>✅</td> <td>✅</td> <td>✅</td> <td>❌</td> <td>⚠️</td>
+     <td>otherFunction</td> <td>❌</td> <td>❌</td> <td>❌</td> <td>❌</td> <td>⚠️</td>
    </tr>
 </table>
 
