@@ -18,19 +18,19 @@
 ---
 ## 功能:
 
-|          Name          |    Ver96.0    |    Ver101.0    |
-| ---------------------- | ------------- | -------------- |
-| toast                  | ✅Completed | ❌Developed |
-| alert                  | ✅Completed | ❌Developed |
-| clearResults           | ✅Completed | ❌Developed |
-| setRanges              | ✅Completed | ❌Developed |
-| searchNumber           | ✅Completed | ❌Developed |
-| getResultsCount        | ✅Completed | ❌Developed |
-| getResults             | ✅Completed | ❌Developed |
-| editAll                | ✅Completed | ❌Developed |
-| getValues              | ✅Completed | ❌Developed |
-| setValues              | ✅Completed | ❌Developed |
-| addListItems           | ✅Completed | ❌Developed |
+|          Name          | Ver96.0      | Ver96.1     | Ver101.0     | RLGG        |
+| ---------------------- | ------------ | ----------- | ------------ | ----------- |
+| toast                  | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
+| alert                  | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
+| clearResults           | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
+| setRanges              | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
+| searchNumber           | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
+| getResultsCount        | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
+| getResults             | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
+| editAll                | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
+| getValues              | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
+| setValues              | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
+| addListItems           | ✅Completed | ✅Completed | ❌Developed | ❌Developed |
 
 ---
 ## 贡献:
