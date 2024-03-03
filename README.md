@@ -18,20 +18,20 @@
 ---
 ## 功能:
 
-| FuncName               | V96.0 | V96.1 | V101.0 | RLGG |
-| ---------------------- | --- | --- | --- | --- |
-| toast                  | ✅ | ✅ | ✅ | ❌ |
-| alert                  | ✅ | ✅ | ✅ | ❌ |
-| clearResults           | ✅ | ✅ | ✅ | ❌ |
-| setRanges              | ✅ | ✅ | ✅ | ❌ |
-| searchNumber           | ✅ | ✅ | ✅ | ❌ |
-| getResultsCount        | ✅ | ✅ | ✅ | ❌ |
-| getResults             | ✅ | ✅ | ✅ | ❌ |
-| editAll                | ✅ | ✅ | ✅ | ❌ |
-| getValues              | ✅ | ✅ | ✅ | ❌ |
-| setValues              | ✅ | ✅ | ✅ | ❌ |
-| addListItems           | ✅ | ✅ | ✅ | ❌ |
-| otherFunction          | ❌ | ❌ | ❌ | ❌ |
+| FuncName               | V96.0 | V96.1 | V101.0 | RLGG | Other |
+| ---------------------- | --- | --- | --- | --- | --- |
+| toast                  | ✅ | ✅ | ✅ | ❌ | ⚠️ |
+| alert                  | ✅ | ✅ | ✅ | ❌ | ⚠️ |
+| clearResults           | ✅ | ✅ | ✅ | ❌ | ⚠️ |
+| setRanges              | ✅ | ✅ | ✅ | ❌ | ⚠️ |
+| searchNumber           | ✅ | ✅ | ✅ | ❌ | ⚠️ |
+| getResultsCount        | ✅ | ✅ | ✅ | ❌ | ⚠️ |
+| getResults             | ✅ | ✅ | ✅ | ❌ | ⚠️ |
+| editAll                | ✅ | ✅ | ✅ | ❌ | ⚠️ |
+| getValues              | ✅ | ✅ | ✅ | ❌ | ⚠️ |
+| setValues              | ✅ | ✅ | ✅ | ❌ | ⚠️ |
+| addListItems           | ✅ | ✅ | ✅ | ❌ | ⚠️ |
+| otherFunction          | ❌ | ❌ | ❌ | ❌ | ⚠️ |
 
 ---
 ## 贡献:
