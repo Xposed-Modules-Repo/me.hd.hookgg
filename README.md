@@ -17,7 +17,7 @@
 
 ---
 ## 功能:
-
+当前功能如下，后续将依据star和download情况进一步更新与适配。
 <table>
     <tr>
         <td rowspan="2" align="center"><b>FuncName</b></td>
