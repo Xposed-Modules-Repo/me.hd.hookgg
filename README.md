@@ -17,12 +17,13 @@
 
 ---
 ## 功能:
-当前功能如下，后续将依据star和download情况进一步更新与适配。
+后续将依据star和download情况进一步更新与适配。
 <table>
     <tr>
         <td rowspan="2" align="center"><b>FuncName</b></td>
         <td colspan="3" align="center"><b>GG</b></td>
         <td colspan="1" align="center"><b>RLGG</b></td>
+        <td colspan="1" align="center"><b>ELGG</b></td>
         <td colspan="1" align="center"><b>Other</b></td>
     </tr>
     <tr>
@@ -30,6 +31,7 @@
         <td align="center"><b>Ver96.1</b></td>
         <td align="center"><b>Ver101.0</b></td>
         <td align="center"><b>Ver2.0.9.2</b></td>
+        <td align="center"><b>Ver1.1.0</b></td>
         <td align="center"><b>Unknown</b></td>
     </tr>
     <tr>
@@ -37,6 +39,7 @@
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
+        <td align="center">❌</td>
         <td align="center">❌</td>
         <td align="center">⚠️</td>
     </tr>
@@ -46,6 +49,7 @@
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">❌</td>
+        <td align="center">❌</td>
         <td align="center">⚠️</td>
     </tr>
     <tr>
@@ -53,6 +57,7 @@
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
+        <td align="center">❌</td>
         <td align="center">❌</td>
         <td align="center">⚠️</td>
     </tr>
@@ -62,6 +67,7 @@
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">❌</td>
+        <td align="center">❌</td>
         <td align="center">⚠️</td>
     </tr>
     <tr>
@@ -69,6 +75,7 @@
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
+        <td align="center">❌</td>
         <td align="center">❌</td>
         <td align="center">⚠️</td>
     </tr>
@@ -78,6 +85,7 @@
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">❌</td>
+        <td align="center">❌</td>
         <td align="center">⚠️</td>
     </tr>
     <tr>
@@ -85,6 +93,7 @@
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
+        <td align="center">❌</td>
         <td align="center">❌</td>
         <td align="center">⚠️</td>
     </tr>
@@ -94,6 +103,7 @@
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">❌</td>
+        <td align="center">❌</td>
         <td align="center">⚠️</td>
     </tr>
     <tr>
@@ -101,6 +111,7 @@
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
+        <td align="center">❌</td>
         <td align="center">❌</td>
         <td align="center">⚠️</td>
     </tr>
@@ -110,6 +121,7 @@
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">❌</td>
+        <td align="center">❌</td>
         <td align="center">⚠️</td>
     </tr>
     <tr>
@@ -118,10 +130,12 @@
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">❌</td>
+        <td align="center">❌</td>
         <td align="center">⚠️</td>
     </tr>
     <tr>
         <td align="center">otherFunction</td>
+        <td align="center">❌</td>
         <td align="center">❌</td>
         <td align="center">❌</td>
         <td align="center">❌</td>
