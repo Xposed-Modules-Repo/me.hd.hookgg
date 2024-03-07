@@ -22,8 +22,8 @@
     <tr>
         <td rowspan="2" align="center"><b>FuncName</b></td>
         <td colspan="3" align="center"><b>GG</b></td>
-        <td colspan="1" align="center"><b>RLGG</b></td>
-        <td colspan="1" align="center"><b>ELGG</b></td>
+        <td colspan="1" align="center"><b>RLGG(1.4.0适配)</b></td>
+        <td colspan="1" align="center"><b>ELGG(1.4.0适配)</b></td>
         <td colspan="1" align="center"><b>Other</b></td>
     </tr>
     <tr>
