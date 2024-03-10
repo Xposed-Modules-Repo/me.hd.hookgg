@@ -28,7 +28,7 @@
     </tr>
     <tr>
         <td align="center">RLGG</td>
-        <td align="center">Ver2.0.9.2</td>
+        <td align="center">2.0.9.2</td>
         <td align="center">可能触发封设备,IP,格机等惩罚</td>
     </tr>
 </table>
@@ -43,12 +43,12 @@
         <td colspan="1" align="center"><b>Other</b></td>
     </tr>
     <tr>
-        <td align="center"><b>Ver96.0</b></td>
-        <td align="center"><b>Ver96.1</b></td>
-        <td align="center"><b>Ver101.0</b></td>
-        <td align="center"><b>Ver2.0.9.2</b></td>
-        <td align="center"><b>Ver1.1.0</b></td>
-        <td align="center"><b>Unknown</b></td>
+        <td align="center"><b>96.0</b></td>
+        <td align="center"><b>96.1</b></td>
+        <td align="center"><b>101.0</b></td>
+        <td align="center"><b>2.0.9.2</b></td>
+        <td align="center"><b>1.1.0</b></td>
+        <td align="center"><b>3.3.2-beta</b></td>
         <td align="center"><b>Unknown</b></td>
     </tr>
     <tr>
