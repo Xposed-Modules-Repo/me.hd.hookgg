@@ -36,9 +36,9 @@
         <td align="center">HookGG(v1.4.000)待适配</td>
     </tr>
     <tr>
-        <td align="center">makeRequest</td>
+        <td align="center">optfunction,optstring,opttable</td>
         <td align="center"></td>
-        <td align="center">HookGG(v1.4.000)待适配</td>
+        <td align="center">bug待修复</td>
     </tr>
 </table>
 
@@ -170,16 +170,6 @@
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">❌</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">⚠️</td>
-    </tr>
-    <tr>
-        <td align="center">makeRequest</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">⚠️</td>
