@@ -17,8 +17,7 @@
 </div>
 
 ---
-## 功能:
-后续将依据star和download情况进一步更新与适配。
+## 说明:
 
 <table>
     <tr>
@@ -31,7 +30,16 @@
         <td align="center">2.0.9.2</td>
         <td align="center">可能触发封设备,IP,格机等惩罚</td>
     </tr>
+    <tr>
+        <td align="center">AGG</td>
+        <td align="center">3.3.2-beta</td>
+        <td align="center">HookGG(v1.4.000)待适配</td>
+    </tr>
 </table>
+
+---
+## 功能:
+后续将依据star和download情况进一步更新与适配。
 
 <table>
     <tr>
