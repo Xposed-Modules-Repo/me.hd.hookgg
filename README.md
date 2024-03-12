@@ -35,11 +35,6 @@
         <td align="center">3.3.2-beta</td>
         <td align="center">HookGG(v1.4.000)待适配</td>
     </tr>
-    <tr>
-        <td align="center">optfunction,optstring,opttable</td>
-        <td align="center">HookGG</td>
-        <td align="center">bug待修复</td>
-    </tr>
 </table>
 
 ---
