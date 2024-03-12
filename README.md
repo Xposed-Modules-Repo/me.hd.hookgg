@@ -30,11 +30,6 @@
         <td align="center">2.0.9.2</td>
         <td align="center">可能触发封设备,IP,格机等惩罚</td>
     </tr>
-    <tr>
-        <td align="center">AGG</td>
-        <td align="center">3.3.2-beta</td>
-        <td align="center">HookGG(v1.4.000)待适配</td>
-    </tr>
 </table>
 
 ---
