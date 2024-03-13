@@ -28,7 +28,7 @@
     <tr>
         <td align="center">RLGG</td>
         <td align="center">2.0.9.2</td>
-        <td align="center">可能触发封设备,IP,格机等惩罚</td>
+        <td align="center">⚠️可能触发RLGG的封设备,IP,格机等惩罚</td>
     </tr>
 </table>
 
