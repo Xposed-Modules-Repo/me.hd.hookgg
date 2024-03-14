@@ -30,6 +30,11 @@
         <td align="center">2.0.9.2</td>
         <td align="center">⚠️可能触发封设备,IP,格机等惩罚</td>
     </tr>
+    <tr>
+        <td align="center">非官方GG</td>
+        <td align="center">All</td>
+        <td align="center">⚠️可能存在某种检测及惩罚机制</td>
+    </tr>
 </table>
 
 ---
