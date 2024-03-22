@@ -41,6 +41,8 @@
 ## 功能:
 后续将依据star和download情况进一步更新与适配。
 
+过滤异常/输出返回/全局函数表
+
 <table>
     <tr>
         <td rowspan="2" align="center"><b>FuncName</b></td>
