@@ -26,12 +26,7 @@
         <td colspan="1" align="center"><b>Description</b></td>
     </tr>
     <tr>
-        <td align="center">RLGG</td>
-        <td align="center">2.0.9.2</td>
-        <td align="center">⚠️可能触发封设备,IP,格机等惩罚</td>
-    </tr>
-    <tr>
-        <td align="center">非官方GG</td>
+        <td align="center">三方GG</td>
         <td align="center">All</td>
         <td align="center">⚠️可能存在某种检测及惩罚机制</td>
     </tr>
@@ -41,16 +36,37 @@
 ## 功能:
 后续将依据star和download情况进一步更新与适配。
 
-过滤异常/输出返回/全局函数表
+<table>
+    <tr>
+        <td colspan="1" align="center"><b>Name</b></td>
+        <td colspan="1" align="center"><b>Status</b></td>
+    </tr>
+    <tr>
+        <td align="center">过滤异常</td>
+        <td align="center">⚠️</td>
+    </tr>
+    <tr>
+        <td align="center">输出返回</td>
+        <td align="center">⚠️</td>
+    </tr>
+    <tr>
+        <td align="center">全局函数表</td>
+        <td align="center">⚠️</td>
+    </tr>
+</table>
 
 <table>
     <tr>
-        <td rowspan="2" align="center"><b>FuncName</b></td>
-        <td colspan="3" align="center"><b>GG</b></td>
-        <td colspan="1" align="center"><b>RLGG</b></td>
-        <td colspan="1" align="center"><b>ELGG</b></td>
-        <td colspan="1" align="center"><b>AGG</b></td>
-        <td colspan="1" align="center"><b>Other</b></td>
+        <td rowspan="3" colspan="1" align="center"><b>FuncName</b></td>
+        <td rowspan="2" colspan="3" align="center"><b>官方GG</b></td>
+        <td rowspan="1" colspan="3" align="center"><b>三方GG</b></td>
+        <td rowspan="1" colspan="1" align="center"><b>Other</b></td>
+    </tr>
+    <tr>
+        <td align="center"><b>RLGG</b></td>
+        <td align="center"><b>ELGG</b></td>
+        <td align="center"><b>AGG</b></td>
+        <td align="center"><b>Unknown</b></td>
     </tr>
     <tr>
         <td align="center"><b>96.0</b></td>
