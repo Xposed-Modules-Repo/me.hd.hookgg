@@ -32,10 +32,6 @@
     </tr>
 </table>
 
----
-## 功能:
-后续将依据star和download情况进一步更新与适配。
-
 <table>
     <tr>
         <td colspan="1" align="center"><b>Name</b></td>
@@ -43,23 +39,30 @@
     </tr>
     <tr>
         <td align="center">过滤异常</td>
-        <td align="center">⚠️</td>
+        <td align="center">⚠️开发中</td>
     </tr>
     <tr>
         <td align="center">输出返回</td>
-        <td align="center">⚠️</td>
+        <td align="center">⚠️开发中</td>
     </tr>
     <tr>
         <td align="center">全局函数表</td>
-        <td align="center">⚠️</td>
+        <td align="center">⚠️开发中</td>
     </tr>
 </table>
+
+---
+## 功能:
+
+后续将依据star和download情况进一步更新与适配.
+
+We will continue to update and adapt based on the number of stars and downloads in the future.
 
 <table>
     <tr>
         <td rowspan="3" colspan="1" align="center"><b>FuncName</b></td>
-        <td rowspan="2" colspan="3" align="center"><b>官方GG</b></td>
-        <td rowspan="1" colspan="3" align="center"><b>三方GG</b></td>
+        <td rowspan="2" colspan="3" align="center"><b>Official GG</b></td>
+        <td rowspan="1" colspan="3" align="center"><b>Third-party GG</b></td>
         <td rowspan="1" colspan="1" align="center"><b>Other</b></td>
     </tr>
     <tr>
@@ -243,6 +246,8 @@
 ## 贡献:
 
 在使用过程中有任何问题或建议, 请通过issues提交.
+
+If you encounter any issues or have any suggestions during use, please submit them through issues.
 
 ---
 ## 致谢:
