@@ -83,9 +83,9 @@
     </tr>
     <tr>
         <td align="center">choice</td>
-        <td align="center">❌</td>
-        <td align="center">❌</td>
-        <td align="center">❌</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
         <td align="center">❌</td>
         <td align="center">❌</td>
         <td align="center">❌</td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td align="center">multiChoice</td>
-        <td align="center">❌</td>
-        <td align="center">❌</td>
-        <td align="center">❌</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
         <td align="center">❌</td>
         <td align="center">❌</td>
         <td align="center">❌</td>
@@ -103,9 +103,9 @@
     </tr>
     <tr>
         <td align="center">prompt</td>
-        <td align="center">❌</td>
-        <td align="center">❌</td>
-        <td align="center">❌</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
         <td align="center">❌</td>
         <td align="center">❌</td>
         <td align="center">❌</td>
