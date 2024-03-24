@@ -57,7 +57,7 @@
         <td align="center"><b>96.1</b></td>
         <td align="center"><b>101.0</b></td>
         <td align="center"><b>2.0.9.2</b></td>
-        <td align="center"><b>1.1.0</b></td>
+        <td align="center"><b>1.1.4</b></td>
         <td align="center"><b>3.3.2-beta</b></td>
         <td align="center"><b>Unknown</b></td>
     </tr>
@@ -87,7 +87,7 @@
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">❌</td>
-        <td align="center">❌</td>
+        <td align="center">✅</td>
         <td align="center">❌</td>
         <td align="center">⚠️</td>
     </tr>
@@ -97,7 +97,7 @@
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">❌</td>
-        <td align="center">❌</td>
+        <td align="center">✅</td>
         <td align="center">❌</td>
         <td align="center">⚠️</td>
     </tr>
@@ -107,7 +107,7 @@
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">❌</td>
-        <td align="center">❌</td>
+        <td align="center">✅</td>
         <td align="center">❌</td>
         <td align="center">⚠️</td>
     </tr>
