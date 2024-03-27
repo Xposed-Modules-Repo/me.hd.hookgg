@@ -89,7 +89,7 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">❌</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">alert</td>
@@ -99,7 +99,7 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">choice</td>
@@ -109,7 +109,7 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">multiChoice</td>
@@ -119,7 +119,7 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">prompt</td>
@@ -129,7 +129,7 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">clearResults</td>
@@ -139,7 +139,7 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">setRanges</td>
@@ -149,7 +149,7 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">getRangesList</td>
@@ -159,7 +159,7 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">searchNumber</td>
@@ -169,7 +169,7 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">getResultsCount</td>
@@ -179,7 +179,7 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">getResults</td>
@@ -189,7 +189,7 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">editAll</td>
@@ -199,37 +199,37 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">getValues</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">❌</td>
+        <td align="center">🚫</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">setValues</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">❌</td>
+        <td align="center">🚫</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">addListItems</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">❌</td>
+        <td align="center">🚫</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">makeRequest</td>
@@ -239,7 +239,7 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">⚠️</td>
+        <td align="center">❓</td>
     </tr>
     <tr>
         <td align="center">otherFunction</td>
