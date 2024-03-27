@@ -72,16 +72,6 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center"><b>Unknown</b></td>
     </tr>
     <tr>
-        <td align="center">logReturn</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">❌</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">❌</td>
-    </tr>
-    <tr>
         <td align="center">toast</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
