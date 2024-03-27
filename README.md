@@ -36,11 +36,6 @@
         <td align="center">⚠️2024/04/30计划中</td>
     </tr>
     <tr>
-        <td align="center">输出函数返回</td>
-        <td align="center">All</td>
-        <td align="center">⚠️2024/04/30计划中</td>
-    </tr>
-    <tr>
         <td align="center">打印全局函数</td>
         <td align="center">All</td>
         <td align="center">⚠️2024/04/30计划中</td>
@@ -75,6 +70,16 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center"><b>1.1.4</b></td>
         <td align="center"><b>3.3.3</b></td>
         <td align="center"><b>Unknown</b></td>
+    </tr>
+    <tr>
+        <td align="center">returnValue</td>
+        <td align="center">❌</td>
+        <td align="center">❌</td>
+        <td align="center">❌</td>
+        <td align="center">❌</td>
+        <td align="center">❌</td>
+        <td align="center">❌</td>
+        <td align="center">❌</td>
     </tr>
     <tr>
         <td align="center">toast</td>
