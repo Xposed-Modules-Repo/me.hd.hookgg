@@ -30,16 +30,6 @@
         <td align="center">All</td>
         <td align="center">⚠️可能存在检测及惩罚机制</td>
     </tr>
-    <tr>
-        <td align="center">过滤异常参数</td>
-        <td align="center">All</td>
-        <td align="center">⚠️2024/04/30计划中</td>
-    </tr>
-    <tr>
-        <td align="center">打印全局函数</td>
-        <td align="center">All</td>
-        <td align="center">⚠️2024/04/30计划中</td>
-    </tr>
 </table>
 
 ---
