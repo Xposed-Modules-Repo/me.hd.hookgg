@@ -73,7 +73,7 @@ We will continue to update and adapt based on the number of stars and downloads 
     </tr>
     <tr>
         <td align="center">returnValue</td>
-        <td align="center">❌</td>
+        <td align="center">✅</td>
         <td align="center">❌</td>
         <td align="center">❌</td>
         <td align="center">❌</td>
