@@ -105,15 +105,15 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center"><b>2.0.9.2</b></td>
         <td align="center"><b>1.1.0~1.1.6</b></td>
         <td align="center"><b>1.2.0</b></td>
-        <td align="center"><b>3.3.3</b></td>
+        <td align="center"><b>3.3.3~3.3.91</b></td>
         <td align="center"><b>Unknown</b></td>
     </tr>
     <tr>
-        <td align="center">toast</td>
+        <td align="center">addListItems</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">❌</td>
+        <td align="center">🚫</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
@@ -132,6 +132,105 @@ We will continue to update and adapt based on the number of stars and downloads 
     </tr>
     <tr>
         <td align="center">choice</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❓</td>
+    </tr>
+    <tr>
+        <td align="center">clearResults</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❓</td>
+    </tr>
+    <tr>
+        <td align="center">editAll</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❓</td>
+    </tr>
+    <tr>
+        <td align="center">getRangesList</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❓</td>
+    </tr>
+    <tr>
+        <td align="center">getResults</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❓</td>
+    </tr>
+    <tr>
+        <td align="center">getResultsCount</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❓</td>
+    </tr>
+    <tr>
+        <td align="center">getTargetPackage</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❓</td>
+    </tr>
+    <tr>
+        <td align="center">getValues</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">🚫</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❓</td>
+    </tr>
+    <tr>
+        <td align="center">isPackageInstalled</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">✅</td>
+        <td align="center">❓</td>
+    </tr>
+    <tr>
+        <td align="center">makeRequest</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
@@ -164,39 +263,6 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">❓</td>
     </tr>
     <tr>
-        <td align="center">clearResults</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">❓</td>
-    </tr>
-    <tr>
-        <td align="center">setRanges</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">❓</td>
-    </tr>
-    <tr>
-        <td align="center">getRangesList</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">❓</td>
-    </tr>
-    <tr>
         <td align="center">searchNumber</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
@@ -219,44 +285,11 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">❓</td>
     </tr>
     <tr>
-        <td align="center">getResultsCount</td>
+        <td align="center">setRanges</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">❓</td>
-    </tr>
-    <tr>
-        <td align="center">getResults</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">❓</td>
-    </tr>
-    <tr>
-        <td align="center">editAll</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">❓</td>
-    </tr>
-    <tr>
-        <td align="center">getValues</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">🚫</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
@@ -274,22 +307,11 @@ We will continue to update and adapt based on the number of stars and downloads 
         <td align="center">❓</td>
     </tr>
     <tr>
-        <td align="center">addListItems</td>
+        <td align="center">toast</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
-        <td align="center">🚫</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">❓</td>
-    </tr>
-    <tr>
-        <td align="center">makeRequest</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
-        <td align="center">✅</td>
+        <td align="center">❌</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
         <td align="center">✅</td>
